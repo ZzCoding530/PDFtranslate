@@ -1,0 +1,10 @@
+{
+  "xf": {
+    "appid": "93932e12",
+    "secret": "MjEyNjc3ZDA0NWU4ODQ1MjFlMjM0OGUz",
+    "key": "496bfc567df22e7cf65de37f8cd2aa00"
+  },
+  "redis": {
+    "uri": "redis://redis:6379"
+  }
+}
